@@ -218,4 +218,4 @@ Defiance is fully free to play, providing access to all features and updates wit
 Download Defiance now and join the fight for survival in a thrilling cooperative world!
 
 ---
-**Last updated:** 2026-09-27 14:55:37 UTC
+**Last updated:** 2026-09-27 18:51:13 UTC
